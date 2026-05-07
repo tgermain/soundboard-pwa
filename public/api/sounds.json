@@ -256,11 +256,6 @@
       "mp3": "/sounds/Dumb-Son-Of-A-Bitch.mp3"
     },
     {
-      "name": "Dying over here",
-      "artist": "",
-      "mp3": "/sounds/Dying-over-here.mp3"
-    },
-    {
       "name": "Eliminate Flames",
       "artist": "Rick Riley",
       "mp3": "/sounds/Eliminate-Flames.mp3"
@@ -419,6 +414,11 @@
       "name": "God Bless America",
       "artist": "Jim Mandich",
       "mp3": "/sounds/God-Bless-America.mp3"
+    },
+    {
+      "name": "Good Looking Guy",
+      "artist": "Steve Geldy Goldstein",
+      "mp3": "/sounds/Good-Looking-Guy.mp3"
     },
     {
       "name": "Good Morning Americans It's Friday",
@@ -911,6 +911,11 @@
       "mp3": "/sounds/Kick-Ass-Toupe.mp3"
     },
     {
+      "name": "Kick Teeth In",
+      "artist": "Alex Bennett",
+      "mp3": "/sounds/Kick-Teeth-In.mp3"
+    },
+    {
       "name": "Kyle Isley God",
       "artist": "Caller to Neil",
       "mp3": "/sounds/Kyle-Isley-God.mp3"
@@ -1019,6 +1024,11 @@
       "name": "My God is that thing real?",
       "artist": "Neil Rogers",
       "mp3": "/sounds/My-God-is-that-thing-real.mp3"
+    },
+    {
+      "name": "Need Help",
+      "artist": "Rick Riley",
+      "mp3": "/sounds/Need-Help.mp3"
     },
     {
       "name": "Neil GOD Epic",
@@ -1559,6 +1569,11 @@
       "name": "Uh huh",
       "artist": "Bob Lassiter",
       "mp3": "/sounds/Uh-huh-Lassiter.mp3"
+    },
+    {
+      "name": "Up the Butt",
+      "artist": "Steve Geldy Goldstein",
+      "mp3": "/sounds/Up-the-Butt.mp3"
     },
     {
       "name": "Use You as a Sex Toy",
