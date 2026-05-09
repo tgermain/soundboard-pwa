@@ -906,7 +906,7 @@
       "mp3": "/sounds/Keep-your-johnson-straight.mp3"
     },
     {
-      "name": "Kick Your Ass",
+      "name": "Kick Ass Toupe",
       "artist": "Scott Ferrall",
       "mp3": "/sounds/Kick-Ass-Toupe.mp3"
     },
@@ -1361,6 +1361,11 @@
       "mp3": "/sounds/Sheik-Laugh.mp3"
     },
     {
+      "name": "She's a Liar",
+      "artist": "Scott Ferrall",
+      "mp3": "/sounds/Shes-a-Liar.mp3"
+    },
+    {
       "name": "Shoot Them in the Leg",
       "artist": "",
       "mp3": "/sounds/Shoot-Them-In-The-Leg.mp3"
@@ -1774,6 +1779,11 @@
       "name": "You Shut Up",
       "artist": "",
       "mp3": "/sounds/You-Shut-Up.mp3"
+    },
+    {
+      "name": "You Slut",
+      "artist": "Scott Ferrall",
+      "mp3": "/sounds/You-Slut.mp3"
     },
     {
       "name": "You Son of a Bitch",
