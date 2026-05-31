@@ -11,6 +11,11 @@
       "mp3": "/sounds/Second_poteau_Pavard.mp3"
     },
     {
+      "name": "Quel taille fait ta beuteu ?",
+      "artist": "",
+      "mp3": "/sounds/ad_laurent_taille_beuteu.mp3"
+    },
+    {
       "name": "Awiwiwi cat",
       "artist": "",
       "mp3": "/sounds/awiwi_cat.mp3"
@@ -26,9 +31,14 @@
       "mp3": "/sounds/helicopter-helicopter.mp3"
     },
     {
-      "name": "Keep pushing joseph merde",
-      "artist": "Sylvain",
+      "name": "keep pushing joseph merde",
+      "artist": "sylvain",
       "mp3": "/sounds/keep_pushing.mp3"
+    },
+    {
+      "name": "Mahmoud il a volé le scooter",
+      "artist": "Gael",
+      "mp3": "/sounds/mahmoud.mp3"
     },
     {
       "name": "Jérémie, qu’est-ce que tu fais ?",
