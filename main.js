@@ -212,7 +212,7 @@ class SoundboardApp {
 	async loadConfig() {
 		try {
 			console.log("🔧 Loading configuration...");
-			const response = await fetch("/config.json");
+			const response = await fetch(import.meta.resolve("./config.json"));
 			if (response.ok) {
 				this.config = await response.json();
 				console.log("✅ Configuration loaded");
@@ -358,7 +358,7 @@ class SoundboardApp {
 				for (const url of apiUrls) {
 					try {
 						console.log(`🌐 Trying to fetch from ${url}...`);
-						const response = await fetch(url);
+						const response = await fetch(import.meta.resolve("./" + url));
 						console.log(`📡 Response from ${url}:`, response.status, response.ok);
 						if (response.ok) {
 							const data = await response.json();
@@ -486,7 +486,7 @@ class SoundboardApp {
 			console.log("🎵 Playing sound:", sound.mp3);
 
 			// Explicitly fetch the audio file to ensure it goes through service worker
-			const response = await fetch(sound.mp3);
+			const response = await fetch(import.meta.resolve("./" + sound.mp3));
 			if (!response.ok) {
 				throw new Error(`Failed to fetch audio: ${response.status}`);
 			}
